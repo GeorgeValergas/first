@@ -4,7 +4,7 @@
 
 # Todo for everyone
 
-Simple GTD app for task tracking.
+GET SHIT DONE! Ahhh! Do I Even VIM!? Do I EVEN RAILS!?
 
 Supports all Rubies and many stacks (passenger, unicorn, trinidad/jruby).
 
@@ -15,3 +15,10 @@ bundle exec ruby -Itest test/functional/lists_controller_test.rb
 # To run specific tests: (for example)
 
 bundle exec ruby -Itest test/functional/lists_controller_test.rb --name test_should_create_list
+
+
+#Monkey See Monkey Do!!
+
+
+Markdown...Some kinda hipster came up with that one.
+
