@@ -21,4 +21,4 @@ bundle exec ruby -Itest test/functional/lists_controller_test.rb --name test_sho
 
 
 Markdown...Some kinda hipster came up with that one.
-
+	Just finished Git Tutorial at [Code_School](try.github.io)
